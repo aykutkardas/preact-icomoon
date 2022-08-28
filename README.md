@@ -1,7 +1,6 @@
 # preact-icomoon
 
 [![npm](https://img.shields.io/npm/v/preact-icomoon?color=%234fc921)](https://www.npmjs.com/package/preact-icomoon)
-![npm](https://img.shields.io/npm/dw/preact-icomoon)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?color=%234fc921)](https://opensource.org/licenses/MIT)
 
 It makes it very simple to use SVG icons in your `Preact` projects.
